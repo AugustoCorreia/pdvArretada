@@ -1,5 +1,7 @@
 {
   "name": "PWA-ControleDeEstoque",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
